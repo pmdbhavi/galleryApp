@@ -1,0 +1,18 @@
+.imageList {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.para {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.container {
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
